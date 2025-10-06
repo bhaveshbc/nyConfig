@@ -1,5 +1,5 @@
 
 {
-  "licenceNameShouldHide":  false,
-  "AssesmentLicenceShouldHide": false
+  "licenceNameShouldHide":  true,
+  "AssesmentLicenceShouldHide": true
 }
