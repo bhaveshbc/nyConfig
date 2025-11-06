@@ -2,5 +2,5 @@
 {
   "licenceNameShouldHide":  true,
   "AssesmentLicenceShouldHide": true,
-  "ReviewNoteRefreshOnPush": false
+  "ReviewNoteRefreshOnPush": true
 }
