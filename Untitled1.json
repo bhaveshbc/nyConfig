@@ -1,5 +1,5 @@
 {
   "licenceNameShouldHide":  true,
   "AssesmentLicenceShouldHide": true,
-  "showLinceNameOnSpeech": true
+  "showLinceNameOnSpeech": false
 }
